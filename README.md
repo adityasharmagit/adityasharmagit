@@ -55,7 +55,7 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
   <!-- Backend & Databases -->
   <img src="./assets/node.png" width="38"/>
   <img src="./assets/express.png" width="38"/>
-  <img src="./assets/socket.png" width="38"/>
+  <img src="./assets/socket.jpg" width="38"/>
   <img src="./assets/jwt.png" width="38"/>
   <img src="./assets/mongodb.png" width="38"/>
   <img src="./assets/mysql.png" width="38"/>
