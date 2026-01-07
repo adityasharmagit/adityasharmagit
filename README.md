@@ -31,99 +31,99 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
 
 <p align="left">
   <!-- Languages -->
-  <a href="https://www.java.com/"  >
+  <a href="https://www.java.com/" target="_blank">
     <img src="./assets/java.png" width="40"/>
   </a>
-  <a href="https://isocpp.org/"  >
+  <a href="https://isocpp.org/" target="_blank">
     <img src="./assets/c++.png" width="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  >
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="./assets/javascript.png" width="40"/>
   </a>
-  <a href="https://www.python.org/"  >
+  <a href="https://www.python.org/" target="_blank">
     <img src="./assets/python.png" width="40"/>
   </a>
 
   <!-- Frontend -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"  >
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="./assets/html.png" width="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"  >
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="./assets/css.png" width="40"/>
   </a>
-  <a href="https://getbootstrap.com/"  >
+  <a href="https://getbootstrap.com/" target="_blank">
     <img src="./assets/bootstarp.png" width="40"/>
   </a>
-  <a href="https://react.dev/"  >
+  <a href="https://react.dev/" target="_blank">
     <img src="./assets/react.png" width="40"/>
   </a>
-  <a href="https://reactrouter.com/"  >
+  <a href="https://reactrouter.com/" target="_blank">
     <img src="./assets/react-router.png" width="40"/>
   </a>
-  <a href="https://ejs.co/"  >
+  <a href="https://ejs.co/" target="_blank">
     <img src="./assets/ejs.png" width="40"/>
   </a>
 
   <!-- Backend & Databases -->
-  <a href="https://nodejs.org/"  >
+  <a href="https://nodejs.org/" target="_blank">
     <img src="./assets/node.png" width="40"/>
   </a>
-  <a href="https://expressjs.com/"  >
+  <a href="https://expressjs.com/" target="_blank">
     <img src="./assets/express.png" width="40"/>
   </a>
-  <a href="https://socket.io/"  >
+  <a href="https://socket.io/" target="_blank">
     <img src="./assets/socket.jpg" width="40"/>
   </a>
-  <a href="https://jwt.io/"  >
+  <a href="https://jwt.io/" target="_blank">
     <img src="./assets/jwt.png" width="40"/>
   </a>
-  <a href="https://www.mongodb.com/"  >
+  <a href="https://www.mongodb.com/" target="_blank">
     <img src="./assets/mongodb.png" width="40"/>
   </a>
-  <a href="https://www.mysql.com/"  >
+  <a href="https://www.mysql.com/" target="_blank">
     <img src="./assets/mysql.png" width="40"/>
   </a>
-  <a href="https://kafka.apache.org/"  >
+  <a href="https://kafka.apache.org/" target="_blank">
     <img src="./assets/kafka.png" width="40"/>
   </a>
 
   <!-- DevOps & Tools -->
-  <a href="https://git-scm.com/"  >
+  <a href="https://git-scm.com/" target="_blank">
     <img src="./assets/git.png" width="40"/>
   </a>
-  <a href="https://github.com/"  >
+  <a href="https://github.com/" target="_blank">
     <img src="./assets/github.png" width="40"/>
   </a>
-  <a href="https://about.gitlab.com/"  >
+  <a href="https://about.gitlab.com/" target="_blank">
     <img src="./assets/gitlab.png" width="40"/>
   </a>
-  <a href="https://www.npmjs.com/"  >
+  <a href="https://www.npmjs.com/" target="_blank">
     <img src="./assets/npm.png" width="40"/>
   </a>
-  <a href="https://nodemon.io/"  >
+  <a href="https://nodemon.io/" target="_blank">
     <img src="./assets/nodemon.png" width="40"/>
   </a>
-  <a href="https://www.postman.com/"  >
+  <a href="https://www.postman.com/" target="_blank">
     <img src="./assets/postman.png" width="40"/>
   </a>
-  <a href="https://render.com/"  >
+  <a href="https://render.com/" target="_blank">
     <img src="./assets/render.png" width="40"/>
   </a>
-  <a href="https://www.docker.com/"  >
+  <a href="https://www.docker.com/" target="_blank">
     <img src="./assets/docker.png" width="40"/>
   </a>
 
   <!-- Design -->
-  <a href="https://www.canva.com/"  >
+  <a href="https://www.canva.com/" target="_blank">
     <img src="./assets/canva.png" width="40"/>
   </a>
-  <a href="https://www.blender.org/"  >
+  <a href="https://www.blender.org/" target="_blank">
     <img src="./assets/blender.png" width="40"/>
   </a>
-  <a href="https://spline.design/"  >
+  <a href="https://spline.design/" target="_blank">
     <img src="./assets/spline.jpg" width="40"/>
   </a>
-  <a href="https://www.figma.com/"  >
+  <a href="https://www.figma.com/" target="_blank">
     <img src="./assets/figma.png" width="40"/>
   </a>
 </p>
