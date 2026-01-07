@@ -148,3 +148,66 @@ Please feel free to clone projects and raise issues if you think something could
 <br/>
 Happy Coding!!
 </p>
+
+
+<p align="center">
+🚀 I build scalable, real-time web applications using the MERN stack & Socket.io,
+with a strong focus on performance, clean architecture, and production-ready systems.
+</p>
+
+
+<h2 align="left">🚀 Featured Projects</h2>
+
+<ul>
+  <li>
+    <b>💬 Real-Time Chat Application</b><br/>
+    MERN Stack • Socket.io • JWT Authentication<br/>
+    Features: Online status, typing indicators, real-time messaging<br/>
+    🔗 <a href="LIVE_LINK">Live Demo</a> • <a href="REPO_LINK">Source Code</a>
+  </li>
+
+  <br/>
+
+  <li>
+    <b>💸 Expense Tracker (MERN Stack)</b><br/>
+    Auth • CRUD • Charts • Responsive UI<br/>
+    🔗 <a href="LIVE_LINK">Live Demo</a> • <a href="REPO_LINK">Source Code</a>
+  </li>
+
+  <br/>
+
+  <li>
+    <b>⚡ Event-Driven System with Apache Kafka</b><br/>
+    Kafka Producer–Consumer model for real-time data processing
+  </li>
+</ul>
+
+
+<h2 align="left">📌 Currently</h2>
+
+<ul>
+  <li>🔭 Building scalable real-time systems using Apache Kafka</li>
+  <li>🌱 Learning AI/ML integration for modern web applications</li>
+  <li>☁️ Exploring AWS for cloud-native & scalable architectures</li>
+</ul>
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharmagit&layout=compact&theme=github_dark" />
+</p>
+
+
+<p align="center">
+💡 Interested in collaborating or hiring?<br/>
+Let’s build something impactful together.<br/>
+⭐ If you like my work, consider starring a repository!
+</p>
+
+
+<h2 align="left">✨ Highlights</h2>
+
+<ul>
+  <li>⚙️ Strong focus on backend architecture & scalability</li>
+  <li>🧠 Experience with real-time systems & event-driven design</li>
+  <li>📈 Continuously learning modern tools & best practices</li>
+</ul>
