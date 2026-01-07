@@ -15,11 +15,11 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
 
 
 <p align="left">
-  <a href="mailto:as0257233@gmail.com"><img height="32" width="32" src="./assets/email.png"/></a>
-  <a href="https://discordapp.com/users/771060812827459585" ><img height="32" width="32" src="./assets/discord.png"/></a>
-  <a href="https://www.linkedin.com/in/adityathsharma/" ><img height="32" width="32" src="./assets/linkedin.png"/></a>
-  <a href="https://leetcode.com/u/adityathsharma/" ><img height="32" width="32" src="./assets/leetcode.png"/></a>
-  <a href="https://x.com/Synxwit"><img height="32" width="32" src="./assets/X.png"/></a>
+  <a href="mailto:as0257233@gmail.com"><img height="36" width="36" src="./assets/email.png"/></a>
+  <a href="https://discordapp.com/users/771060812827459585" ><img height="36" width="36" src="./assets/discord.png"/></a>
+  <a href="https://www.linkedin.com/in/adityathsharma/" ><img height="36" width="36" src="./assets/linkedin.png"/></a>
+  <a href="https://leetcode.com/u/adityathsharma/" ><img height="36" width="36" src="./assets/leetcode.png"/></a>
+  <a href="https://x.com/Synxwit"><img height="36" width="36" src="./assets/X.png"/></a>
 </p>
 
 <br>
@@ -64,10 +64,12 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
   <img src="./assets/nodemon.png" width="40"/>
   <img src="./assets/postman.png" width="40"/>
   <img src="./assets/render.png" width="40"/>
+  <img src="./assets/docker.png" width="40"/>
 
 
   <!-- Design -->
   <img src="./assets/canva.png" width="40"/>
   <img src="./assets/blender.png" width="40"/>
   <img src="./assets/spline.jpg" width="40"/>
+  <img src="./assets/figma.png" width="40"/>
 </p>
