@@ -13,7 +13,7 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
   </a>
 </p>
 
-<br><br>
+<br>
 
 <h2 align="left">
   <img align="left" height="36" width="36" src="./assets/Socials.png"/>Connect with me:
@@ -38,7 +38,7 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
   </a>
 </p>
 
-<br><br>
+<br>
 
 <h2 align="left">
   <img align="left" height="36" width="36" src="./assets/tech-stack.png"/>
@@ -47,43 +47,43 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
 
 <p align="left">
   <!-- Languages -->
-  <img src="./assets/java.png" width="32"/>
-  <img src="./assets/c++.png" width="32"/>
-  <img src="./assets/javascript.png" width="32"/>
-  <img src="./assets/python.png" width="32"/>
+  <img src="./assets/java.png" width="38"/>
+  <img src="./assets/c++.png" width="38"/>
+  <img src="./assets/javascript.png" width="38"/>
+  <img src="./assets/python.png" width="38"/>
 
 
   <!-- Frontend -->
-  <img src="./assets/html.png" width="32"/>
-  <img src="./assets/css.png" width="32"/>
-  <img src="./assets/bootstarp.png" width="32"/>
-  <img src="./assets/react.png" width="32"/>
-  <img src="./assets/react-router.png" width="32"/>
-  <img src="./assets/ejs.png" width="32"/>
+  <img src="./assets/html.png" width="38"/>
+  <img src="./assets/css.png" width="38"/>
+  <img src="./assets/bootstarp.png" width="38"/>
+  <img src="./assets/react.png" width="38"/>
+  <img src="./assets/react-router.png" width="38"/>
+  <img src="./assets/ejs.png" width="38"/>
 
 
   <!-- Backend & Databases -->
-  <img src="./assets/node.png" width="32"/>
-  <img src="./assets/express.png" width="32"/>
-  <img src="./assets/socket.png" width="32"/>
-  <img src="./assets/jwt.png" width="32"/>
-  <img src="./assets/mongodb.png" width="32"/>
-  <img src="./assets/mysql.png" width="32"/>
-  <img src="./assets/kafka.png" width="32"/>
+  <img src="./assets/node.png" width="38"/>
+  <img src="./assets/express.png" width="38"/>
+  <img src="./assets/socket.png" width="38"/>
+  <img src="./assets/jwt.png" width="38"/>
+  <img src="./assets/mongodb.png" width="38"/>
+  <img src="./assets/mysql.png" width="38"/>
+  <img src="./assets/kafka.png" width="38"/>
 
 
   <!-- DevOps & Tools -->
-  <img src="./assets/git.png" width="32"/>
-  <img src="./assets/github.png" width="32"/>
-  <img src="./assets/gitlab.png" width="32"/>
-  <img src="./assets/npm.png" width="32"/>
-  <img src="./assets/nodemon.png" width="32"/>
-  <img src="./assets/postman.png" width="32"/>
-  <img src="./assets/render.png" width="32"/>
+  <img src="./assets/git.png" width="38"/>
+  <img src="./assets/github.png" width="38"/>
+  <img src="./assets/gitlab.png" width="38"/>
+  <img src="./assets/npm.png" width="38"/>
+  <img src="./assets/nodemon.png" width="38"/>
+  <img src="./assets/postman.png" width="38"/>
+  <img src="./assets/render.png" width="38"/>
 
 
   <!-- Design -->
-  <img src="./assets/canva.png" width="32"/>
-  <img src="./assets/blender.png" width="32"/>
-  <img src="./assets/spline.jpg" width="32"/>
+  <img src="./assets/canva.png" width="38"/>
+  <img src="./assets/blender.png" width="38"/>
+  <img src="./assets/spline.jpg" width="38"/>
 </p>
