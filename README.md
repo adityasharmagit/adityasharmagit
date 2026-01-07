@@ -14,7 +14,7 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
 </p>
 
 <h2 align="left">
-  <img align="left" height="35" width="35" src="./assets/Socials.png"/>Connect with me:
+  <img align="left" height="36" width="36" src="./assets/Socials.png"/>Connect with me:
 </h2>
 
 
@@ -36,3 +36,55 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
   </a>
 </p>
 
+
+<h3 align="left">
+  <img align="left" height="36" width="36" src="./assets/tech-stack.jpg"/>
+  Languages & Tools
+</h3>
+
+<p align="left">
+  <!-- Languages -->
+  <img src="./assets/java.png" width="32"/>
+  <img src="./assets/c++.png" width="32"/>
+  <img src="./assets/javascript.png" width="32"/>
+  <img src="./assets/python.png" width="32"/>
+</p>
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="./assets/html.png" width="32"/>
+  <img src="./assets/css.png" width="32"/>
+  <img src="./assets/bootstarp.png" width="32"/>
+  <img src="./assets/react.png" width="32"/>
+  <img src="./assets/react-router.png" width="32"/>
+  <img src="./assets/ejs.png" width="32"/>
+</p>
+
+<p align="left">
+  <!-- Backend & Databases -->
+  <img src="./assets/node.png" width="32"/>
+  <img src="./assets/express.png" width="32"/>
+  <img src="./assets/socket.png" width="32"/>
+  <img src="./assets/jwt.png" width="32"/>
+  <img src="./assets/mongodb.png" width="32"/>
+  <img src="./assets/mysql.png" width="32"/>
+  <img src="./assets/kafka.png" width="32"/>
+</p>
+
+<p align="left">
+  <!-- DevOps & Tools -->
+  <img src="./assets/git.png" width="32"/>
+  <img src="./assets/github.png" width="32"/>
+  <img src="./assets/gitlab.png" width="32"/>
+  <img src="./assets/npm.png" width="32"/>
+  <img src="./assets/nodemon.png" width="32"/>
+  <img src="./assets/postman.png" width="32"/>
+  <img src="./assets/render.png" width="32"/>
+</p>
+
+<p align="left">
+  <!-- Design -->
+  <img src="./assets/canva.png" width="32"/>
+  <img src="./assets/blender.png" width="32"/>
+  <img src="./assets/spline.jpg" width="32"/>
+</p>
