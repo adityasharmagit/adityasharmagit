@@ -137,23 +137,19 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
     <b>💬 Real-Time Chat Application</b><br/>
     MERN Stack • Socket.io • JWT Authentication<br/>
     Features: Online status, typing indicators, real-time messaging<br/>
-    🔗 <a href="LIVE_LINK">Live Demo</a> • <a href="REPO_LINK">Source Code</a>
+    🔗 <a href="https://synx.onrender.com/">Live Demo</a> • <a href="https://github.com/adityasharmagit/synx">Source Code</a>
   </li>
 
   <br/>
 
   <li>
-    <b>💸 Expense Tracker (MERN Stack)</b><br/>
-    Auth • CRUD • Charts • Responsive UI<br/>
-    🔗 <a href="LIVE_LINK">Live Demo</a> • <a href="REPO_LINK">Source Code</a>
+    <b>✨ Wallpaper Application</b><br/>
+    Auth • CRUD • Responsive UI<br/>
+    🔗 <a href="https://elixirs.onrender.com/">Live Demo</a> • <a href="https://github.com/adityasharmagit/Elixirs">Source Code</a>
   </li>
 
   <br/>
-
-  <li>
-    <b>⚡ Event-Driven System with Apache Kafka</b><br/>
-    Kafka Producer–Consumer model for real-time data processing
-  </li>
+  
 </ul>
 
 <br>
