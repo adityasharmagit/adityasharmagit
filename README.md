@@ -41,7 +41,7 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
 <br><br>
 
 <h2 align="left">
-  <img align="left" height="36" width="36" src="./assets/tech-stack.jpg"/>
+  <img align="left" height="36" width="36" src="./assets/tech-stack.png"/>
   Languages & Tools
 </h2>
 
