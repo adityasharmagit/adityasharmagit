@@ -139,3 +139,12 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
   <img src="https://nirzak-streak-stats.vercel.app/?user=adityasharmagit&theme=github_dark&hide_border=false" />
 </p>
 
+<br>
+
+<p align="center">
+You have finally discovered my Github profile, so let's get connected!
+<br/>
+Please feel free to clone projects and raise issues if you think something could be better.
+<br/>
+Happy Coding!!
+</p>
