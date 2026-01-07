@@ -34,7 +34,7 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
     <img height="32" width="32" src="./assets/leetcode.png"/>
   </a>
   <a href="https://x.com/Synxwit" target="_blank" rel="noopener noreferrer">
-    <img height="32" width="32" src="./assets/X.jpg"/>
+    <img height="32" width="32" src="./assets/X.png"/>
   </a>
 </p>
 
