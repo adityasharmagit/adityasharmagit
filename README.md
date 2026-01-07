@@ -21,19 +21,19 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
 
 
 <p align="left">
-  <a href="mailto:as0257233@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:as0257233@gmail.com">
     <img height="32" width="32" src="./assets/email.png"/>
   </a>
-  <a href="https://discordapp.com/users/771060812827459585" target="_blank" rel="noopener noreferrer">
+  <a href="https://discordapp.com/users/771060812827459585" >
     <img height="32" width="32" src="./assets/discord.png"/>
   </a>
-  <a href="https://www.linkedin.com/in/adityathsharma/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/adityathsharma/" >
     <img height="32" width="32" src="./assets/linkedin.png"/>
   </a>
-  <a href="https://leetcode.com/u/adityathsharma/" target="_blank" rel="noopener noreferrer">
+  <a href="https://leetcode.com/u/adityathsharma/" >
     <img height="32" width="32" src="./assets/leetcode.png"/>
   </a>
-  <a href="https://x.com/Synxwit" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/Synxwit">
     <img height="32" width="32" src="./assets/X.png"/>
   </a>
 </p>
