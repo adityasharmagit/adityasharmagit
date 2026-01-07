@@ -128,28 +128,14 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
   </a>
 </p>
 
+ <br>
 
 <h2 align="left">
   <img align="left" height="36" width="36" src="./assets/stats.png"/>
   Stats
 </h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasharmagit&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
+<p align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=adityasharmagit&theme=github_dark&hide_border=false" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharmagit&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-<hr/>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=adityasharmagit&icon=0&color=0" />
-  </a>
-</p>
