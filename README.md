@@ -128,33 +128,7 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
   </a>
 </p>
 
- <br>
-
-<h2 align="left">
-  <img align="left" height="36" width="36" src="./assets/stats.png"/>
-  Stats
-</h2>
-
-<p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=adityasharmagit&theme=github_dark&hide_border=false" />
-</p>
-
 <br>
-
-<p align="center">
-You have finally discovered my Github profile, so let's get connected!
-<br/>
-Please feel free to clone projects and raise issues if you think something could be better.
-<br/>
-Happy Coding!!
-</p>
-
-
-<p align="center">
-🚀 I build scalable, real-time web applications using the MERN stack & Socket.io,
-with a strong focus on performance, clean architecture, and production-ready systems.
-</p>
-
 
 <h2 align="left">🚀 Featured Projects</h2>
 
@@ -182,6 +156,7 @@ with a strong focus on performance, clean architecture, and production-ready sys
   </li>
 </ul>
 
+<br>
 
 <h2 align="left">📌 Currently</h2>
 
@@ -192,22 +167,24 @@ with a strong focus on performance, clean architecture, and production-ready sys
 </ul>
 
 
+ <br>
+
+<h2 align="left">
+  <img align="left" height="36" width="36" src="./assets/stats.png"/>
+  Stats
+</h2>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharmagit&layout=compact&theme=github_dark" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=adityasharmagit&theme=github_dark&hide_border=false" />
 </p>
 
+<br>
 
 <p align="center">
-💡 Interested in collaborating or hiring?<br/>
-Let’s build something impactful together.<br/>
-⭐ If you like my work, consider starring a repository!
+You have finally discovered my Github profile, so let's get connected!
+<br/>
+Please feel free to clone projects and raise issues if you think something could be better.
+<br/>
+Happy Coding!!
 </p>
 
-
-<h2 align="left">✨ Highlights</h2>
-
-<ul>
-  <li>⚙️ Strong focus on backend architecture & scalability</li>
-  <li>🧠 Experience with real-time systems & event-driven design</li>
-  <li>📈 Continuously learning modern tools & best practices</li>
-</ul>
