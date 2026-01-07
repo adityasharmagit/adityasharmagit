@@ -19,7 +19,7 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
 </h3>
 
 
-<p align="center">
+<p align="left">
   <a href="mailto:as0257233@gmail.com" target="_blank" rel="noopener noreferrer">
     <img height="32" width="32" src="./assets/email.png"/>
   </a>
