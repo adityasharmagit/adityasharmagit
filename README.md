@@ -31,45 +31,45 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
 
 <p align="left">
   <!-- Languages -->
-  <img src="./assets/java.png" width="40"/>
-  <img src="./assets/c++.png" width="40"/>
-  <img src="./assets/javascript.png" width="40"/>
-  <img src="./assets/python.png" width="40"/>
+  <img src="./assets/java.png" width="40" href="https://www.java.com/"/>
+  <img src="./assets/c++.png" width="40" href="https://isocpp.org/"/>
+  <img src="./assets/javascript.png" width="40" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
+  <img src="./assets/python.png" width="40" href="https://www.python.org/"/>
 
 
   <!-- Frontend -->
-  <img src="./assets/html.png" width="40"/>
-  <img src="./assets/css.png" width="40"/>
-  <img src="./assets/bootstarp.png" width="40"/>
-  <img src="./assets/react.png" width="40"/>
-  <img src="./assets/react-router.png" width="40"/>
-  <img src="./assets/ejs.png" width="40"/>
+  <img src="./assets/html.png" width="40" href="https://developer.mozilla.org/en-US/docs/Web/HTML"/>
+  <img src="./assets/css.png" width="40" href="https://developer.mozilla.org/en-US/docs/Web/CSS"/>
+  <img src="./assets/bootstarp.png" width="40" href="https://getbootstrap.com/"/>
+  <img src="./assets/react.png" width="40" href="https://react.dev/"/>
+  <img src="./assets/react-router.png" width="40" href="https://reactrouter.com/"/>
+  <img src="./assets/ejs.png" width="40" href="https://ejs.co/"/>
 
 
   <!-- Backend & Databases -->
-  <img src="./assets/node.png" width="40"/>
-  <img src="./assets/express.png" width="40"/>
-  <img src="./assets/socket.jpg" width="40"/>
-  <img src="./assets/jwt.png" width="40"/>
-  <img src="./assets/mongodb.png" width="40"/>
-  <img src="./assets/mysql.png" width="40"/>
-  <img src="./assets/kafka.png" width="40"/>
+  <img src="./assets/node.png" width="40" href="https://nodejs.org/"/>
+  <img src="./assets/express.png" width="40" href="https://expressjs.com/"/>
+  <img src="./assets/socket.jpg" width="40" href="https://socket.io/"/>
+  <img src="./assets/jwt.png" width="40" href="https://jwt.io/"/>
+  <img src="./assets/mongodb.png" width="40" href="https://www.mongodb.com/"/>
+  <img src="./assets/mysql.png" width="40" href="https://www.mysql.com/"/>
+  <img src="./assets/kafka.png" width="40" href="https://kafka.apache.org/"/>
 
 
   <!-- DevOps & Tools -->
-  <img src="./assets/git.png" width="40"/>
-  <img src="./assets/github.png" width="40"/>
-  <img src="./assets/gitlab.png" width="40"/>
-  <img src="./assets/npm.png" width="40"/>
-  <img src="./assets/nodemon.png" width="40"/>
-  <img src="./assets/postman.png" width="40"/>
-  <img src="./assets/render.png" width="40"/>
-  <img src="./assets/docker.png" width="40"/>
+  <img src="./assets/git.png" width="40" href="https://git-scm.com/"/>
+  <img src="./assets/github.png" width="40" href="https://github.com/"/>
+  <img src="./assets/gitlab.png" width="40" href="https://about.gitlab.com/"/>
+  <img src="./assets/npm.png" width="40" href="https://www.npmjs.com/"/>
+  <img src="./assets/nodemon.png" width="40" href="https://nodemon.io/"/>
+  <img src="./assets/postman.png" width="40" href="https://www.postman.com/"/>
+  <img src="./assets/render.png" width="40" href="https://render.com/"/>
+  <img src="./assets/docker.png" width="40" href="https://www.docker.com/"/>
 
 
   <!-- Design -->
-  <img src="./assets/canva.png" width="40"/>
-  <img src="./assets/blender.png" width="40"/>
-  <img src="./assets/spline.jpg" width="40"/>
-  <img src="./assets/figma.png" width="40"/>
+  <img src="./assets/canva.png" width="40" href="https://www.canva.com/"/>
+  <img src="./assets/blender.png" width="40" href="https://www.blender.org/"/>
+  <img src="./assets/spline.jpg" width="40" href="https://spline.design/"/>
+  <img src="./assets/figma.png" width="40" href="https://www.figma.com/"/>
 </p>
