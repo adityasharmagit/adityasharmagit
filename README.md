@@ -7,12 +7,6 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
 🎓 Graduate of Sister Nivedita University
 </h3>
 
-<p align="center">
-  <a href="mailto:as0257233@gmail.com">
-    <img src="https://img.shields.io/badge/Email-as0257233%40gmail.com-red?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 <br>
 
 <h2 align="left">
