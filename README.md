@@ -13,9 +13,9 @@ Building chat apps with Socket.io ● Learning AI/ML, AWS & Apache Kafka <br><br
   </a>
 </p>
 
-<h3 align="left">
-  <img align="left" height="35" width="35" src="./assets/Socials.png"/>Connect with me
-</h3>
+<h2 align="left">
+  <img align="left" height="35" width="35" src="./assets/Socials.png"/>Connect with me:
+</h2>
 
 
 <p align="left">
